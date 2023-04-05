@@ -1,0 +1,1 @@
+open todo-list/scr/app.js folder
